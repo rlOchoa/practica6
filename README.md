@@ -106,4 +106,4 @@ com.aria.practica6
 
 ## ✅ Conclusión
 
-A pesar de las dificultades para crear esta aplicación, como el manejo de permisos dentro del android manifest, y los contantes errores al momento de utilizarse en un telefono real (dado que en emulador, los sensores no lograron funcionar), esta aplicación fue sorprendentemente más sencilla de realizar que prácticas anteriores, esta aplicación probablemente en posteriores revisiones se le implementen mejoras, como el manejo de cámara en "Modo Profesional" para cambio de lentes, WB, F, S, ISO, EV, etc.
+A pesar de las dificultades para crear esta aplicación, como el manejo de permisos dentro del androidmanifest, y los constantes errores al momento de utilizarse en un telefono real (dado que en emulador, los sensores no lograron funcionar), esta aplicación fue sorprendentemente más sencilla de realizar que prácticas anteriores, esta aplicación probablemente en posteriores revisiones se le implementen mejoras, como el manejo de cámara en "Modo Profesional" para cambio de lentes, WB, F, S, ISO, EV, etc.
